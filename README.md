@@ -16,4 +16,5 @@
   - CRUD de Ad's
   - Filtros de pesquisa
   - Queue com Redis
+  - Envio de email para o usuário criador do ad
         
